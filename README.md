@@ -1,6 +1,6 @@
 # NeoFAO
 
-Hosted at [](https://wag001.shinyapps.io/NeoFAO/)
+Hosted on [Shiny](https://wag001.shinyapps.io/NeoFAO/)
 
 The foot and ankle offset (FAO) is widely used as three-dimensional biometrics generated from weightbearing computed tomography (WBCT) images to classify and quantify foot and ankle deformities (Lintz et al. 2017). Although FAO demonstrated reduced bias on deformity classification compared to previous methods utilizing two-dimensional radiographs, its accuracy and sensitivity are yet to be manifested among clinical cases with severe deformities.
 
